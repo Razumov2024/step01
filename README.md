@@ -17,3 +17,4 @@
         <a href="mailto:test@mail.com">
             Напишите нам
         </a>
+Чтобы сделать список F1, написать emwr(ctrl + ALT + W)
